@@ -1,2 +1,2 @@
 # osc
-CTP-EOS Open Source Conscious Repository 
+CTP-EOS Open Source Consciousness Repository 
